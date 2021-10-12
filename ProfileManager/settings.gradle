@@ -1,0 +1,2 @@
+rootProject.name = "SEG2505_Profile_Manager"
+include ':app'
